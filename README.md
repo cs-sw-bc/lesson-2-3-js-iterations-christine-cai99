@@ -20,6 +20,15 @@
 
 **Concept:** Repetition in real life — counting steps, checking notifications, adding items repeatedly.
 
+three key words: while, do-while, for
+-you can interchange the three
+
+components of repetition
+1. how many times/ limit/ endpoint
+2. Keep track of the repetition 
+    - starting point
+    - counting the repetition
+
 * Demonstrate manual repetition and convert it to a loop.
 
 ```js
